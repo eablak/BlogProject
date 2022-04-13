@@ -1,0 +1,47 @@
+﻿@model List<Category>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title"><b>Kategori Listeleme Paneli</b></h3>
+
+
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+
+
+                <tr>
+
+                    <th>Kategori Adı</th>
+                    <th>Kategori Açıklaması</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td>
+                            <b><p>@item.Name</p></b>
+                        </td>  <!--home indexine götürüyor - değiştir-->
+                    <td>@item.Description</td>
+                        <td>
+                            @Html.ActionLink("Kategorisine Ait Makaleleri Görüntüle", "ArticleByCategory", "Home", new { id = @item.Id })
+
+                        </td>
+
+                    </tr>
+                }
+
+            </tbody>
+
+        </table>
+        
+        <button class="btn btn-dark" onclick="parent.location='http://localhost:50319/Login'"><script>alert("Kategori eklemek için önce giriş yapınız")</script> Kategori Ekle</button>
+    </div>
+
+</div>

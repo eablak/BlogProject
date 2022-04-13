@@ -1,0 +1,49 @@
+﻿@model List<Category>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title"><b>Kategori Listeleme Paneli</b></h3>
+
+       
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+
+                    <th>Kategori Adı</th>
+                    <th>Kategori Açıklaması</th>
+                    <th style="width: 40px">Güncelle</th>
+                    <th style="width: 40px">Detay</th>
+                    <th style="width: 40px">Sil</th>
+                    <th style="width: 60px">Takip Et</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-success">Güncelle </a>
+                        </td>
+                        <td>
+                            <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary">Detay </a>
+                        </td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Sil </a>
+                        </td>
+                        <td>
+                            <a asp-action="Follow" asp-route-id="@item.Id" class="btn btn-secondary">Takip Et </a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

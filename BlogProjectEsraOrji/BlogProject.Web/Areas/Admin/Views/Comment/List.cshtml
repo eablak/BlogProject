@@ -1,0 +1,29 @@
+﻿@model List<Comment>
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title"><b>Yorum Listeleme Paneli</b></h3>
+
+
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+
+                  
+                   
+                    <th style="width: 40px"></th>
+           
+                </tr>
+            </thead>
+            <tbody>
+               @await Component.InvokeAsync("UserComment")
+              
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

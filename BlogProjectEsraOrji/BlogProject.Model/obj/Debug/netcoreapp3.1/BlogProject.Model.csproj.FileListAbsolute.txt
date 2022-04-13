@@ -1,0 +1,30 @@
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.deps.json
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.csproj.AssemblyReference.cache
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.AssemblyInfoInputs.cache
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.AssemblyInfo.cs
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.deps.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.csproj.AssemblyReference.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.AssemblyInfoInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.AssemblyInfo.cs
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.deps.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\bin\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.csproj.AssemblyReference.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.AssemblyInfoInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.AssemblyInfo.cs
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Model\obj\Debug\netcoreapp3.1\BlogProject.Model.pdb

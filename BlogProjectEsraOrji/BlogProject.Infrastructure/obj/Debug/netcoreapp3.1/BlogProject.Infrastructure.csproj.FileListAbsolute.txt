@@ -1,0 +1,48 @@
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.deps.json
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.runtimeconfig.json
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.runtimeconfig.dev.json
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.dll
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.pdb
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.AssemblyInfo.cs
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.CopyComplete
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.dll
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.pdb
+C:\Users\ikbal.cinek\source\repos\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.genruntimeconfig.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.deps.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.runtimeconfig.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.runtimeconfig.dev.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.AssemblyInfo.cs
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.CopyComplete
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProject_5132\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.genruntimeconfig.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.deps.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.runtimeconfig.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.runtimeconfig.dev.json
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Infrastructure.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Model.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\bin\Debug\netcoreapp3.1\BlogProject.Model.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.AssemblyInfo.cs
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.csproj.CopyComplete
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.dll
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.pdb
+C:\Users\ESRA  ABLAK\Desktop\BlogProjectEsraOrji\BlogProject.Infrastructure\obj\Debug\netcoreapp3.1\BlogProject.Infrastructure.genruntimeconfig.cache

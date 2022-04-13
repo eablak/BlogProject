@@ -1,0 +1,39 @@
+﻿@model List<Article>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title"><b>Makale Listeleme Paneli</b></h3>
+
+
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+
+                    <th>Makale Adı</th>
+                    <th>Makele İçeriği</th>
+                   
+                    <th style="width: 40px">Passive</th>
+           
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model) //boş hatası veriyo
+                {
+                    <tr>
+                        <td>@item.Title</td>
+                        <td>@item.Content</td>                        
+                        <td>
+                            <a asp-action="Passive" asp-route-id="@item.Id" class="btn btn-danger">Passive Çek</a>
+                        </td>                     
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

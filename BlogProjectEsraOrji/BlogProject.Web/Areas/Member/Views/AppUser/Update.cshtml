@@ -1,0 +1,63 @@
+﻿@model UpdateProfileDTO
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title"> Profil Güncelleme Paneli</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="card-body">
+          
+            <div class="form-group">
+                <label asp-for="ImagePath">Image</label>
+                <input asp-for="ImagePath" type="file" class="form-control">
+                <span asp-validation-for="Image"></span>
+                <img src="@Model.Image" />  @*eski fotografı*@
+
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName">Ad</label>
+                <input asp-for="FirstName" type="text" class="form-control">
+                <span asp-validation-for="FirstName"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName">Soyad</label>
+                <input asp-for="LastName" type="text" class="form-control">
+                <span asp-validation-for="LastName"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserName">Kullanıcı Adı</label>
+                <input asp-for="UserName" type="text" class="form-control">
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password">Şifre</label>
+                <input asp-for="Password" type="text" class="form-control">
+                <span asp-validation-for="Password"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Mail">Mail Adresi</label>
+                <input asp-for="Mail" type="text" class="form-control">
+                <span asp-validation-for="Mail"></span>
+            </div>
+
+          <div>
+              <input  asp-for="Id" type="hidden"/>
+                <input  asp-for="IdentityId" type="hidden"/>
+          </div>
+
+            <!-- /.card-body -->
+
+
+            <div class="card-footer float-left">
+                <button type="submit" class="btn btn-primary"> Profili Güncelle </button>
+            </div>
+            <div class="card-footer float-right">
+                <button asp-action="UserPassive" class="btn btn-danger"> Profili Sil </button>
+            </div>
+
+        </div>
+    </form>
+</div>

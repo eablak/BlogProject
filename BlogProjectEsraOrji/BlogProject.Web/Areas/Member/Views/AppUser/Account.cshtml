@@ -1,0 +1,23 @@
+﻿@model AppUser
+<h1><b><i>PROFİL SAYFASI</i></b></h1>
+<img class="img-circle" src="@Model.Image" alt="User Image">
+<div class="form-group">
+    <label asp-for="FirstName">Ad</label>
+    <input asp-for="FirstName" type="text" class="form-control" readonly>
+    <span asp-validation-for="FirstName"></span>
+</div>
+<div class="form-group">
+    <label asp-for="LastName">Soyad</label>
+    <input asp-for="LastName" type="text" class="form-control" readonly>
+    <span asp-validation-for="LastName"></span>
+</div>
+<div class="form-group">
+    <label asp-for="UserName">Kullanıcı Adı</label>
+    <input asp-for="UserName" type="text" class="form-control" readonly>
+    <span asp-validation-for="UserName"></span>
+</div>
+<div class="form-group">
+    <label asp-for="CreateDate">Kayıt Olma Tarihi</label>
+    <input asp-for="CreateDate" type="text" class="form-control" readonly>
+    <span asp-validation-for="CreateDate"></span>
+</div>

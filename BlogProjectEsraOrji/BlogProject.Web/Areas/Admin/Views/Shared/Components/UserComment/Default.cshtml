@@ -1,0 +1,13 @@
+﻿@model List<CommentUser>
+
+@foreach (var item in Model)
+{
+    <p>
+        @item.Writer: @item.Text
+        <a asp-action="Passive" asp-route-id="@item.Id" class="btn btn-danger float-right">Yorum Passive</a>
+
+    </p>
+
+
+    <hr />
+}

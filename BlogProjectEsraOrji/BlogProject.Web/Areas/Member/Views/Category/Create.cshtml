@@ -1,0 +1,29 @@
+﻿@model CreateCategoryDTO
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title"> Kategori Oluşturma Paneli</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form asp-for="Create" method="post">
+        <div class="card-body">
+            <div class="form-group">
+                <label asp-for="Name">Kategori Adı</label>
+                <input asp-for="Name" type="text" class="form-control" >
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Kategori Açıklaması</label>
+                <input asp-for="Description" type="text" class="form-control">
+                <span asp-validation-for="Description"></span>
+            </div>
+           
+        </div>
+        <!-- /.card-body -->
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary"> Oluştur</button>
+        </div>
+    </form>
+</div>

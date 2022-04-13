@@ -1,0 +1,41 @@
+﻿@model Category 
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title"> Kategori Görüntüleme Paneli</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form >
+        <div class="card-body">
+            <div class="form-group">
+                <label asp-for="Name">Kategori Adı</label>
+                <input asp-for="Name" type="text" class="form-control" readonly>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Kategori Açıklaması</label>
+                <input asp-for="Description" type="text" class="form-control" readonly>
+                <span asp-validation-for="Description"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreateDate">Oluşturulma Tarihi</label>
+                <input asp-for="CreateDate" type="text" class="form-control"readonly>
+                <span asp-validation-for="CreateDate"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Statu">Durumu</label>
+                <input asp-for="Statu" type="text" class="form-control"readonly>
+                <span asp-validation-for="Statu"></span>
+            </div>
+          
+
+        </div>
+        <!-- /.card-body -->
+
+        <div class="card-footer">
+           <a  asp-action="List"> Listeye Geri Dön </a>
+        </div>
+    </form>
+</div> 

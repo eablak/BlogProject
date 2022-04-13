@@ -1,0 +1,44 @@
+﻿@model List<ArticleDetailWithUser>
+@*dosyanın yolunu bilmiyor genel altındaki _viewımports.cshtml' de söyle ViewEntity kısmı*@
+
+@foreach (var item in Model)
+{
+    <div class="col-12  d-flex align-items-stretch flex-column">
+        <div class="card bg-light d-flex flex-fill">
+            <div class="card-header text-muted border-bottom-0">
+
+            </div>
+            <div class="card-body pt-0">
+                <div class="row">
+                    <div class="col-7">
+                        <br>
+                        <h2 class="lead"><strong><b>@item.Title</b></strong></h2>
+                        <br>
+                        <p class="text-muted text-sm"> @item.Content.Substring(0, 100)...</p>
+                        <ul class="ml-4 mb-0 fa-ul text-muted">
+                            <a asp-action="Detail" asp-controller="Article" asp-route-id="@item.ArticleId"><i><h6>devamını okumak için tıklayınız..</h6></i></a>
+
+                        </ul>
+                    </div>
+                    <div class="col-5 text-center">
+                        <img src="@item.Image" alt="user-avatar" class="img-circle img-fluid" height=170 width=200>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="text-right">
+
+                    <div class="btn btn-sm btn-primary" style="background-color:#33FF99">
+                        <h5>Oluşturulma Tarihi: @item.CreateDate.ToShortDateString()</h5>
+                      
+                        <a asp-action="AuthorDetail" asp-controller="Home" asp-route-id="@item.UserId"> YAZAR:  @item.UserFullName</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+}
+
+

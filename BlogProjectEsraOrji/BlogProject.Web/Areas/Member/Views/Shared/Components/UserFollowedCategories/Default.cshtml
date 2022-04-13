@@ -1,0 +1,23 @@
+﻿@model List<Category>
+
+<div class="text-center">
+    <h5>TAKİP ETTİĞİNİZ KATEGORİLER</h5>
+    @if (Model.Count > 0)
+    {
+        @foreach (var item in Model)
+        {
+            <div class="row">
+                <a asp-action="List" asp-controller="Category">@item.Name kategorisi takip ediliyor</a>
+            </div>          
+            <div class="row">
+                <a asp-action="Unfollow" asp-controller="Category" asp-route-id="@item.Id">@item.Name kategorisini takipten çık</a>
+            </div>
+            <hr />
+        }
+    }
+    else
+    {
+        <h5>Şuanda takip ettiğiniz konu bulunmamaktadır..</h5>
+        <h5>Kategorileri incelemek isterseniz <a asp-action="List" asp-controller="Category">tıklayınız</a></h5>
+    }
+</div>

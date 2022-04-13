@@ -1,0 +1,57 @@
+﻿@model GetArticleDetailVM
+
+<div class="card card-widget">
+    <div class="card-header">
+        <div class="user-block">
+            <img class="img-circle" src="@Model.AuthorImage" alt="User Image">
+            <span class="username"><a href="#">@Model.AuthorName</a></span>
+            <span class="description">Yayınlanma Tarihi -@Model.CreateDate</span>
+        </div>
+
+        <!-- /.card-tools -->
+    </div>
+    <!-- /.card-header -->
+
+    <div class"card-body">
+        <p>Görüntülenme Sayısı: @Model.View</p>
+        <p>Okunma Süresi @Model.minute dk</p>
+        <br />
+        <img class="img-fluid pad" src="@Model.Image" alt="Photo">
+        <br />
+        <br />
+        <h4>@Model.Title</h4>
+        <br />
+        <p>@Model.Content</p>
+        <br />
+        <br />
+
+        <div class="card-footer float-right">
+        </div>
+
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer card-comments">
+
+        <!-- /.card-comment -->
+        <!-- /.card-comment -->
+    </div>
+    <!-- /.card-footer -->
+
+
+    <div class="card-footer">
+        <form action="#" method="post">
+            <div class="img-push">
+
+
+                <input type="hidden" asp-for="ArticleId" />
+                <input type="hidden" asp-for="AppUserId" />
+            </div>
+
+        </form>
+
+
+    </div>
+    <!-- /.card-footer -->
+
+
+</div>

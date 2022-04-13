@@ -1,0 +1,19 @@
+﻿@model GetArticleDetailVM
+
+<div class="container">
+    <font color="red"><h2 class="display-4"><strong><i>@Model.Title</i></strong></h2></font>
+    <br />
+    <img class="img-circle" src="@Model.Image" alt="User Image">
+    <br />
+    <hr />
+    <br />
+    <p class="lead">@Model.Content</p>
+    <p class="float-right">
+        Yazar: @Model.AuthorName
+        <br />
+        @Model.CreateDate
+    </p>
+    <br />
+    <br />
+</div>
+

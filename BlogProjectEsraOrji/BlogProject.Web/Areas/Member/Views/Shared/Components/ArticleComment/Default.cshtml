@@ -1,0 +1,14 @@
+﻿@model List<CommentDetailWithUser>
+<h4><b><i>Kullanıcı Yorumları</i></b></h4>
+<br />
+@foreach (var item in Model)
+{    
+    <img class="img-circle" src="@item.Image" height="50" width="50" alt="User Image">
+    <p>@item.username  ~  @item.CreateDate.ToShortDateString()</p>
+    <p>
+        @item.Text 
+    </p>
+
+    <hr />
+
+}

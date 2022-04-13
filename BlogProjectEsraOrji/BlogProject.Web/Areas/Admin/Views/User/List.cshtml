@@ -1,0 +1,44 @@
+﻿@model List<AppUser>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title"><b>Kullanıcı Listeleme Paneli</b></h3>      
+
+    </div>
+  
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+
+                    <th>Kullanıcı Ad-Soyad</th>
+                    <th>Kullanıcı UserName</th>
+                    <th>Kullanıcı Mail</th>
+                    <th>Kullanıcı Parola</th>
+                    <th style="width: 40px">Onayla</th>
+                    <th style="width: 40px">Sil</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model) //boş hatası veriyo
+                {
+                    <tr>
+                        <td>@item.FullName</td> 
+                        <td>@item.UserName</td>
+                        <td>@item.Mail</td> 
+                        <td>@item.Password</td> 
+                        <td>
+                            <a asp-action="Accept" asp-route-id="@item.Id" class="btn btn-primary">Aktifleştir</a>
+                        </td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Sil </a>                             
+                        </td>                     
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
